@@ -1,12 +1,16 @@
 ## Hi there 👋
+Hi, I'm urumuru
 
 <!--
 **urumuru/urumuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
+[!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=urumuru)](https://github.com/anuraghazra/github-readme-stats)
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon&logoColor=white)
+
+ ## 🤔 Github Stats
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokgyang&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
